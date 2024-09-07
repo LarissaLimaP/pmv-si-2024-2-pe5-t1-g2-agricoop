@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9ubIgkc1)
-# Título do Projeto
+# Agricoop - cooperativa bancária
 
 `CURSO: Sistemas de Informação`
 
@@ -7,18 +7,20 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este trabalho consiste em um projeto de rede capaz de atender às necessidades da cooperativa bancária fictícia Agricoop, composta por uma sede e cinco filiais distribuidas por seis cidades do interior do estado de Minas Gerais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Bruno Soares Reis
+* Gabriel Martins de Carvalho Pereira
+* Jean Júdice do Rosário
+* João José Faleiro Santos
+* Larissa de Lima Pinheiro Campos
+* Lincoln Antonio da Silva
+* Marcelo Moreira Nunes
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fabio Leandro Rodrigues Cordeiro
 
 
